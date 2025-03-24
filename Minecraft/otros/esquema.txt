@@ -1,0 +1,2 @@
+- Hacer el boton para dejar ver el fondo que haya
+- Si lo anterior no funciona, hacer que la imagen de fondo se vea transparente pero las letras no
