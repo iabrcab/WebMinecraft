@@ -1,2 +1,53 @@
 - Hacer el boton para dejar ver el fondo que haya
 - Si lo anterior no funciona, hacer que la imagen de fondo se vea transparente pero las letras no
+
+
+
+OVERWORLD
+📜 Origen:
+Se dice que el Overworld fue creado cuando un Creeper ancestral explotó con tal potencia que formó montañas, mares y valles. Algunos sostienen que la luna cuadrada es en realidad el fragmento que quedó de la explosión original.
+
+🦄 Fauna:
+Además de las criaturas conocidas, los estudiosos han documentado la existencia del "Cerdo Ninja", un cerdo que aparece y desaparece cuando intentas hacerle una foto. También se habla del "Pollo Observador", el cual te sigue con la mirada y solo pone huevos cuando nadie lo está viendo.
+
+🏠 Habitantes autóctonos:
+Los aldeanos se comunican a través de "Hmmms" en diferentes tonos. Su cultura se basa en intercambiar esmeraldas por cosas absurdamente inútiles, excepto por el bibliotecario, quien es el único con habilidades mágicas para darte libros encantados.
+
+📸 Imagen recomendada:
+Un paisaje hermoso del Overworld con aldeanos mirando fijamente a la cámara, como si escondieran un secreto.
+
+📌 Diseño en HTML:
+El recuadro central con el fondo verde tierra quedaría genial con un borde marrón simulando madera, con el título en un tono más claro y un espacio para la imagen en la parte inferior.
+
+NETHER
+🔥 Origen:
+Se dice que el Nether nació cuando alguien intentó freír bacon a temperaturas extremas y accidentalmente abrió un portal al infierno. Desde entonces, el fuego nunca se apaga y todo huele a cerdo quemado.
+
+🐷 Fauna:
+El "Cerdo de Lava" es una subespecie de los hoglins que, por algún motivo, decide nadar en lava sin razón aparente. Se rumorea que existen "Gasts Filosóficos", que lloran porque son conscientes de su existencia en un mundo sin sentido.
+
+🏰 Habitantes autóctonos:
+Los Piglins son comerciantes agresivos que te atacan si no vistes con oro, pues creen que todo aquel que no lo use es un turista sin derecho a respirar su aire. Mientras tanto, los esqueletos Wither son almas en pena de jugadores que se cayeron a la lava con todo su loot.
+
+📸 Imagen recomendada:
+Un fuerte del Nether con Piglins mirándote con desconfianza, mientras un Gast al fondo suelta una lágrima existencial.
+
+📌 Diseño en HTML:
+Un fondo rojizo y negro con detalles en dorado (para reflejar la obsesión de los Piglins). El título podría estar en un tono amarillo incandescente para simular el fuego del Nether.
+
+END
+🌌 Origen:
+Los sabios Enderman cuentan que el End es lo que queda de un antiguo mundo que intentó copiar al Overworld pero falló. Por eso todo es vacío y flotante, como si se hubiera roto la programación del universo.
+
+👾 Fauna:
+Los Enderman son los guardianes del conocimiento, pero no saben leer. Por eso, cuando ven a alguien con un libro, se teletransportan y lo roban, aunque no saben qué hacer con él. El Dragón del End es en realidad un protector de los archivos del servidor, y por eso reaparece cada vez que intentas borrarlo.
+
+🏠 Habitantes autóctonos:
+Los Shulkers son cajas de seguridad con vida propia, programadas para molestar a los intrusos lanzándolos por los aires sin previo aviso. Se dice que los Enderman son viajeros que alguna vez fueron jugadores, pero que olvidaron cómo volver al Overworld.
+
+📸 Imagen recomendada:
+Un Enderman sosteniendo un bloque con cara de sospecha, mientras el Dragón del End te observa como si fueras un intruso en su biblioteca personal.
+
+📌 Diseño en HTML:
+Fondo oscuro con detalles en morado y gris, con un borde que simule la textura de la piedra del End. El título en un tono lila brillante quedaría genial para resaltar la mística del lugar.
+
