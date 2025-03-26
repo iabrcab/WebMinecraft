@@ -88,14 +88,17 @@ h1::after{
     width: 20%;
 }
 
-details summary {
-    list-style: none;
+summary{
     cursor: pointer;
+}
+
+.summary-indice {
+    list-style: none;
     padding-top: 2%;
 }
 
 /*Palabra indice en el pergamino*/
-details summary::after {
+.summary-indice::after {
     content: "ÍNDICE";
     color: black;
     position: absolute;
@@ -124,7 +127,7 @@ details summary::after {
 /*parte central*/
 .contenido-principal{
     width: 58%;
-    height: 1000px;
+    height: auto;
     float: right;
     margin: 1% 1% 5% 3%;
     background-color: rgb(224, 237, 244,0.9);
@@ -256,5 +259,30 @@ li+p{
     max-width: 100%; /* Limita el ancho de la descripción */
 }
 
+.Oveja{
+    position: relative;
+    display: inline-block;
+    width: 100px;
+    height: auto;
+}
 
+.Oveja img {
+    width: 100%;
+    height: auto;
+    position: absolute;
+    top: 0;
+    left: 0;
+    transition: opacity 0.3s ease-in-out;
+}
 
+.Oveja-esquilada {
+    opacity: 0;
+}   
+
+.Oveja:hover .Oveja-lana {
+    opacity: 0;
+}
+
+.Oveja:hover .Oveja-esquilada {
+    opacity: 1;
+}
