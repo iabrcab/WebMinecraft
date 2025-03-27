@@ -138,17 +138,25 @@ summary{
 
  /*Parte de la derecha*/
 .noticias{
-    border: 1px red solid;
     width: 12%;
-    height: 2000px;
+    height: auto;
     float: right;
     margin: 1% 0% 5% 2%;
-    /*background-image: url(/otros/imagenes/Overworld_background.webp);
-    background-repeat: no-repeat;
-    background-size: cover;
-    opacity: 1;
-    */
-    /*backdrop-filter: blur(5px);*/
+    padding: 0.5%;
+    background-color: rgb(0, 0, 0, 0.4)
+
+}
+h5{
+    color: whitesmoke;
+    font-size: medium;
+    background-color: rgb(0, 0, 0, 0.8);
+    padding: 1%;
+    margin-bottom: 0%;
+}
+
+.img-noticias{
+    width: 100%;
+    margin-bottom: 50%;
 }
 
 /*ORIGEN*/
@@ -246,6 +254,8 @@ li+p{
 .fauna-imagenes{
     width: 10%; /* Ajusta el tamaño de la imagen (más pequeña) */
     height: 10%; /* Mantiene las proporciones de la imagen */
+    align-self:center;
+    margin-top: 5%;
 }
 
 .animal {
@@ -256,7 +266,7 @@ li+p{
 }
 
 .descripcion-fauna {
-    max-width: 100%; /* Limita el ancho de la descripción */
+    max-width: 80%; /* Limita el ancho de la descripción */
 }
 
 .Oveja{
@@ -264,6 +274,8 @@ li+p{
     display: inline-block;
     width: 100px;
     height: auto;
+    align-self:center;
+    margin-bottom: 10%;
 }
 
 .Oveja img {
@@ -285,4 +297,10 @@ li+p{
 
 .Oveja:hover .Oveja-esquilada {
     opacity: 1;
+}
+
+.aldeano{
+    width: 12%;
+    height: auto;
+    margin-right: 1%;
 }
